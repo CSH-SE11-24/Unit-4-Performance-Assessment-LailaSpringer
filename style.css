@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img{
+  width:60%;
+}
+/* Put picture in the center */
+.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* chage color and font  */
+.card {
+  background-color: #8f8a8a !important;
+  font-family: 'Dancing Script', cursive !important;
+}
+
+.container-fluid{
+  background-color: #d1d1d1 ;
+  font-family: 'Dancing Script', cursive;
+}
+ a{
+   color:black !important;
+ }
+/* make cards a certain size */
+.card {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+/* change the font  */
+.container-fluid2{
+  font-family: 'Dancing Script', cursive;
+}
+/* chage background */
+body {
+  background-color: #858585 !important;
+}
+.carousel slide{
+  width:60%;
+}
